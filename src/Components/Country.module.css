@@ -1,0 +1,15 @@
+.Country{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 30px auto;
+    width: 300px;
+    background-color: #eee;
+    border: 1px solid #ccc;
+    box-shadow: 5px 5px 3px #ccc;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
